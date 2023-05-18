@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | AE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Cine y Series",MX | AE
 http://181.78.20.47:9000/play/a06j
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | AMC" tvg-logo="https://cdn.mitvstatic.com/channels/mx_amc_m.png" group-title="Cine y Series",MX | AMC
-http://45.162.135.33:1880/play/a07h
+http://45.238.20.129:8000/play/a011
 #EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png" group-title="Culturales",Animal Planet LAS
 http://186.67.226.14:8088/play/a036
 #EXTINF:-1 tvg-ID="ext" tvg-name="AXN COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png" group-title="Cine y Series",AXN COL/ECU/PER
