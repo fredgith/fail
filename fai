@@ -34,7 +34,7 @@ http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Home Health Latino" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png" group-title="Culturales",Discovery Home Health Latino
 http://190.43.232.140:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Kids COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/330.png" group-title="Infantiles",Discovery Kids COL/ECU/PER
-http://190.60.39.62:8000/play/a013
+http://190.43.232.140:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="Culturales",CL | Discovery Science
 http://45.238.20.129:8000/play/a02n
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Turbo" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/736.png" group-title="Culturales",Discovery Turbo
