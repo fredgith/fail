@@ -40,7 +40,7 @@ http://45.238.20.129:8000/play/a02n
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Turbo" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/736.png" group-title="Culturales",Discovery Turbo
 http://190.43.232.140:8000/play/a08i/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Disney Channel COL" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Infantiles",Disney Channel COL
-http://190.60.39.62:8000/play/a01o
+http://190.43.232.140:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Disney Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/315.png" group-title="Infantiles",Disney Jr
 http://190.60.39.62:8000/play/a01k
 #EXTINF:-1 tvg-ID="ext" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Locales",Distrito Comedia
