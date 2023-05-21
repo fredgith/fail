@@ -54,7 +54,7 @@ http://45.179.140.242:8000/play/a0lf
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1621.png" group-title="Deportes",COL | ESPN
 http://190.60.39.62:8000/play/a03c
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1621.png" group-title="Deportes",COL | ESPN
-http://190.60.39.62:8000/play/a01v
+http://190.43.232.140:8000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="ARG | ESPN 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png" group-title="Deportes",ARG | ESPN 2
 http://190.60.39.62:8000/play/a01m
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/622.png" group-title="Deportes",COL | ESPN 2
