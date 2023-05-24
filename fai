@@ -114,7 +114,7 @@ http://38.7.24.161:8000/play/a02d
 #EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/730.png" group-title="Culturales",National Geographic LAS
 http://8.242.179.188:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nick Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png" group-title="Infantiles",Nick Jr
-http://187.102.208.33:8000/play/a0fo/index.m3u8
+http://168.228.194.33:48001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nickelodeon" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Infantiles",Nickelodeon
 http://45.181.121.57:2909/play/014
 #EXTINF:-1 tvg-ID="ext" tvg-name="Paramount" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png" group-title="Cine y Series",Paramount
