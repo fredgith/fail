@@ -52,15 +52,15 @@ http://190.187.154.151:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal de Futbol" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="Deportes",Canal de Futbol
 http://45.179.140.242:8000/play/a0lf
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1621.png" group-title="Deportes",COL | ESPN
-http://190.60.39.62:8000/play/a03c
+http://204.199.120.34:16123/play/ch16
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1621.png" group-title="Deportes",COL | ESPN
 http://45.4.1.152:7778/play/a00j/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="ARG | ESPN 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/622.png" group-title="Deportes",ARG | ESPN 2
-http://190.60.39.62:8000/play/a01m
+http://204.199.120.34:16123/play/ch17
 #EXTINF:-1 tvg-ID="ext" tvg-name="COL | ESPN 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/622.png" group-title="Deportes",COL | ESPN 2
 http://45.4.1.152:7778/play/a032/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN 3 Andina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1623.png" group-title="Deportes",ESPN 3 Andina
-http://45.4.1.152:7778/play/a03r/index.m3u8
+http://204.199.120.34:16123/play/ch18
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN4 Sur" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/624.png" group-title="Deportes",ESPN4 Sur
 http://179.189.222.226:16123/play/ch19
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn+.png" group-title="Deportes",ESPN +
@@ -70,9 +70,9 @@ http://45.179.164.9:8000/play/a0g5/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Europa Europa" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1515.png" group-title="Cine y Series",Europa Europa
 http://179.63.4.142:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 2 Argentina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="Deportes",FOX Sports 2 Argentina
-http://179.189.222.226:16123/play/ch20
+http://204.199.120.34:16123/play/ch20
 #EXTINF:-1 tvg-ID="ext" tvg-name="Fox Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/609.png" group-title="Deportes",Fox Sports 3
-http://179.189.222.226:16123/play/ch21
+http://204.199.120.34:16123/play/ch21
 #EXTINF:-1 tvg-ID="ext" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/217.png" group-title="Cine y Series",FX (ARG/CHI/COL/PER)
 http://179.189.222.226:16123/play/ch08
 #EXTINF:-1 tvg-ID="ext" tvg-name="GOL TV ECU" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/658.png" group-title="Deportes",GOL TV ECU
@@ -112,7 +112,7 @@ http://45.228.232.204:16000/play/a031/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
 http://38.7.24.161:8000/play/a02d
 #EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/730.png" group-title="Culturales",National Geographic LAS
-http://190.83.60.34:1414/play/a03j
+http://204.199.120.34:16123/play/ch30
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nick Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png" group-title="Infantiles",Nick Jr
 http://168.228.194.33:48001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nickelodeon" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Infantiles",Nickelodeon
@@ -130,7 +130,7 @@ http://170.254.172.10:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Space (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png" group-title="Cine y Series",Space (Sur)
 http://181.115.238.188:6100/play/a073
 #EXTINF:-1 tvg-ID="ext" tvg-name="STAR Channel ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/202.png" group-title="Cine y Series",STAR Channel ECU/PER
-http://190.60.39.62:8000/play/a00t
+http://204.199.120.34:16123/play/ch07
 #EXTINF:-1 tvg-ID="ext" tvg-name="Studio Universal" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/508.png" group-title="Cine y Series",Studio Universal
 http://190.83.60.34:1414/play/a03w
 #EXTINF:-1 tvg-ID="ext" tvg-name="SyFy ARG/CHI/COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/219.png" group-title="Cine y Series",SyFy ARG/CHI/COL/ECU/PER
