@@ -84,7 +84,7 @@ http://181.78.20.47:9000/play/a01m
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/525.png" group-title="Cine y Series",HBO 2
 http://181.78.12.166:9000/play/a04a
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Family" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1534.png" group-title="Cine y Series",HBO Family
-http://181.115.238.188:6100/play/a09x
+http://45.238.20.129:8000/play/a00h
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Pop" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/541.png" group-title="Cine y Series",HBO Pop
 http://181.78.24.67:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Plus (Este)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/526.png" group-title="Cine y Series",HBO Plus (Este)
