@@ -6,7 +6,7 @@ http://45.238.20.129:8000/play/a011
 #EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png" group-title="Culturales",Animal Planet LAS
 http://186.67.226.14:8088/play/a036
 #EXTINF:-1 tvg-ID="ext" tvg-name="AXN COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png" group-title="Cine y Series",AXN COL/ECU/PER
-http://45.4.1.151:7778/play/a03e/index.m3u8
+http://201.219.247.118:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Institucional (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/138.png" group-title="Locales",Canal Institucional (COL)
 http://190.60.39.198:8000/play/a037/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Uno (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png" group-title="Locales",Canal Uno (COL)
@@ -124,7 +124,7 @@ http://181.78.8.90:16123/play/ch59
 #EXTINF:-1 tvg-ID="ext" tvg-name="Señal Colombia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/137.png" group-title="Locales",Señal Colombia (COL)
 http://190.60.39.62:8000/play/a039
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Entertainment (ARG/CHI/CO" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/208.png" group-title="Cine y Series",Sony Entertainment (ARG/CHI/CO
-http://45.4.1.151:7778/play/a03d/index.m3u8
+http://201.219.247.118:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Movies" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1506.png" group-title="Cine y Series",Sony Movies
 http://170.254.172.10:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Space (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png" group-title="Cine y Series",Space (Sur)
