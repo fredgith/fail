@@ -28,7 +28,7 @@ http://200.123.15.181:6011/play/a01l/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Sports" tvg-logo="https://th.bing.com/th/id/OIP.xqTiGK4o-vBlG4RYka-t6wAAAA?pid=ImgDet&rs=1" group-title="Deportes",CL | Claro Sports
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | De Película" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="Cine y Series",MX | De Película
-http://181.78.4.10:45000/play/a041
+http://45.189.117.202:48000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",MX | Discovery Channel
 http://181.175.41.170:8000/play/a0gs
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Home Health Latino" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png" group-title="Culturales",Discovery Home Health Latino
