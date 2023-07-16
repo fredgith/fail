@@ -80,7 +80,7 @@ http://190.185.123.134:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Golden TV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/503.png" group-title="Cine y Series",Golden TV
 http://190.83.116.230:9010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png" group-title="Cine y Series",HBO AR/CO/EC/PE
-http://181.78.20.47:9000/play/a01m
+http://190.185.123.134:8000/play/a02z/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/525.png" group-title="Cine y Series",HBO 2
 http://181.78.12.166:9000/play/a04a
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Family" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1534.png" group-title="Cine y Series",HBO Family
