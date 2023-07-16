@@ -96,7 +96,7 @@ http://186.190.231.179:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="History (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/742.png" group-title="Culturales",History (Sur)
 http://190.185.123.134:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="History 2 LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/744.png" group-title="Culturales",History 2 LAS
-http://181.115.238.188:6100/play/a09w
+http://190.185.123.134:8000/play/a04b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HTV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/272.png" group-title="Musica",HTV
 http://168.90.13.163:8000/play/a02n
 #EXTINF:-1 tvg-ID="ext" tvg-name="I-SAT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/520.png" group-title="Cine y Series",I-SAT
