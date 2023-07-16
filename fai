@@ -78,7 +78,7 @@ http://179.189.222.226:16123/play/ch08
 #EXTINF:-1 tvg-ID="ext" tvg-name="GOL TV ECU" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/658.png" group-title="Deportes",GOL TV ECU
 http://177.234.230.226:8010/play/a003/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Golden TV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/503.png" group-title="Cine y Series",Golden TV
-http://181.78.19.36:9001/play/a04i
+http://190.83.116.230:9010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png" group-title="Cine y Series",HBO AR/CO/EC/PE
 http://181.78.20.47:9000/play/a01m
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/525.png" group-title="Cine y Series",HBO 2
