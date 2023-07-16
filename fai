@@ -66,7 +66,7 @@ http://179.189.222.226:16123/play/ch19
 #EXTINF:-1 tvg-ID="ext" tvg-name="ESPN +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn+.png" group-title="Deportes",ESPN +
 http://190.43.92.176:9898/play/a0o0/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Euro channel" tvg-logo="https://th.bing.com/th/id/OIP.FQya3GGcDm70le18VNMzWAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Euro channel
-http://45.179.164.9:8000/play/a0g5/index.m3u8
+http://190.43.92.176:9898/play/a10d/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Europa Europa" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1515.png" group-title="Cine y Series",Europa Europa
 http://179.63.4.142:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 2 Argentina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="Deportes",FOX Sports 2 Argentina
