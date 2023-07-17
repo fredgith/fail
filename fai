@@ -154,7 +154,7 @@ http://190.60.39.62:8000/play/a02b
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLNovelas SUR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/227.png" group-title="Locales",TLNovelas SUR
 http://190.60.39.62:8000/play/a02h
 #EXTINF:-1 tvg-ID="ext" tvg-name="TNT COL" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/502.png" group-title="Cine y Series",TNT COL
-http://181.78.20.47:9000/play/a060
+http://190.90.252.200:16001/play/a027/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TNT Series" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/213.png" group-title="Cine y Series",TNT Series
 http://190.83.60.34:1414/play/a034
 #EXTINF:-1 tvg-ID="ext" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tooncast_m.png" group-title="Infantiles",Tooncast
