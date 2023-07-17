@@ -118,7 +118,7 @@ http://168.228.194.33:48001/play/a04t/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nickelodeon" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Infantiles",Nickelodeon
 http://190.61.101.9:9000/play/a026/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Paramount" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png" group-title="Cine y Series",Paramount
-http://187.102.208.33:8000/play/a01x/index.m3u8
+http://190.61.101.9:9000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="RCN (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png" group-title="Locales",RCN (COL)
 http://181.78.8.90:16123/play/ch59
 #EXTINF:-1 tvg-ID="ext" tvg-name="Señal Colombia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/137.png" group-title="Locales",Señal Colombia (COL)
