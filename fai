@@ -134,7 +134,7 @@ http://204.199.120.34:16123/play/ch07
 #EXTINF:-1 tvg-ID="ext" tvg-name="Studio Universal" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/508.png" group-title="Cine y Series",Studio Universal
 http://190.83.60.34:1414/play/a03w
 #EXTINF:-1 tvg-ID="ext" tvg-name="SyFy ARG/CHI/COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/219.png" group-title="Cine y Series",SyFy ARG/CHI/COL/ECU/PER
-http://186.121.249.26:9094/play/a05x
+http://190.83.116.230:9010/play/a048/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
 http://170.254.234.244:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TCM" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="Cine y Series",TCM
