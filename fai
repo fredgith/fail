@@ -164,7 +164,7 @@ http://190.60.39.62:8000/play/a06r
 #EXTINF:-1 tvg-ID="ext" tvg-name="TROPICALIA HD" tvg-logo="https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2016/12/09232035/cvypp5zwiaa59p5.jpg" group-title="Musica",TROPICALIA HD
 http://45.179.193.219:5000/play/a0dg
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRUTV (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png" group-title="Cine y Series",TRUTV (ARG/CHI/COL/PER)
-http://186.67.73.110:5054/play/a017
+http://190.90.252.200:16001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE
 http://190.60.39.62:8000/play/a012
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports
