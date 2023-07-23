@@ -138,7 +138,7 @@ http://190.83.116.230:9010/play/a048/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
 http://190.61.101.9:9000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TCM" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="Cine y Series",TCM
-http://190.60.39.62:8000/play/a00u
+http://45.5.119.202:54321/play/a00o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleamazonas (ECU)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png" group-title="Locales",Teleamazonas (ECU)
 http://190.60.36.103:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleantioquia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/140.png" group-title="Locales",Teleantioquia (COL)
