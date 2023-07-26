@@ -188,7 +188,7 @@ http://190.60.39.62:8000/play/a00n
 #EXTINF:-1 tvg-ID="ext" tvg-name="VIA X" tvg-logo="https://th.bing.com/th/id/OIP.qUzvFF7ps0xyh-CEklNmbgHaHa?pid=ImgDet&rs=1" group-title="Locales",VIA X
 http://190.60.36.103:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Warner Channel" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1206.png" group-title="Cine y Series",Warner Channel
-http://190.43.92.176:9898/play/a0su/index.m3u8
+http://45.5.119.202:54321/play/a01f/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Win Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png" group-title="Deportes",Win Sports
 http://190.60.36.103:8000/play/a06k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Win Sports +" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/634.png" group-title="Deportes",Win Sports +
