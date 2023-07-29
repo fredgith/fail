@@ -122,7 +122,7 @@ http://190.61.101.9:9000/play/a03f/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="RCN (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png" group-title="Locales",RCN (COL)
 http://181.78.8.90:16123/play/ch59
 #EXTINF:-1 tvg-ID="ext" tvg-name="Señal Colombia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/137.png" group-title="Locales",Señal Colombia (COL)
-http://190.60.39.62:8000/play/a039
+http://181.78.22.27:8098/play/a02r/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Entertainment (ARG/CHI/CO" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/208.png" group-title="Cine y Series",Sony Entertainment (ARG/CHI/CO
 http://187.102.208.155:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Movies" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1506.png" group-title="Cine y Series",Sony Movies
