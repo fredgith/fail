@@ -17,7 +17,7 @@ http://190.60.39.17:4000/play/a03h/index.m3u8
 http://45.5.119.100:20000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CNN en español" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/704.png" group-title="Noticias",CNN en español
 http://45.172.218.126:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Cinecanal (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/507.png" group-title="Cine y Series",Cinecanal (COL)
+#EXTINF:-1 tvg-ID="ext" tvg-name="Cinecanal (COL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine y Series",Cinecanal (COL)
 http://200.229.147.76:4000/play/a0hr/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinelatino" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/514.png" group-title="Cine y Series",Cinelatino
 http://45.5.117.172:8000/play/a0ik/index.m3u8
