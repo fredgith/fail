@@ -91,7 +91,7 @@ http://181.78.24.67:8010/play/a00g/index.m3u8
 http://201.218.137.232:4123/play/a049/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Signature" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/528.png" group-title="Cine y Series",HBO Signature
 http://181.78.24.67:8010/play/a047/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="HBO Xtreme" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/542.png" group-title="Cine y Series",HBO Xtreme
+#EXTINF:-1 tvg-ID="ext" tvg-name="HBO Xtreme" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/11/hbo-xtreme.jpg" group-title="Cine y Series",HBO Xtreme
 http://45.5.119.100:20000/play/a085/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="History (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/742.png" group-title="Culturales",History (Sur)
 http://190.185.123.134:8000/play/a040/index.m3u8
