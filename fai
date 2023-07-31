@@ -151,7 +151,7 @@ http://181.78.22.27:8098/play/a04c/index.m3u8
 http://45.177.53.7:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLC" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png" group-title="Culturales",TLC
 http://181.78.22.27:8098/play/a01t/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TLNovelas SUR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/227.png" group-title="Locales",TLNovelas SUR
+#EXTINF:-1 tvg-ID="ext" tvg-name="TLNovelas SUR" tvg-logo="https://logowik.com/content/uploads/images/tlnovelas-20074321.logowik.com.webp" group-title="Locales",TLNovelas SUR
 http://201.218.137.232:4123/play/a02x/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TNT COL" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2019/01/TNT_Logo.png" group-title="Cine y Series",TNT COL
 http://190.90.252.200:16001/play/a027/index.m3u8
