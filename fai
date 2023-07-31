@@ -145,7 +145,7 @@ http://190.60.36.103:8000/play/a04a/index.m3u8
 http://181.78.22.27:8098/play/a03g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telecaribe (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/142.png" group-title="Locales",Telecaribe (COL)
 http://181.78.22.27:8098/play/a03q/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Telemundo Internacional" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/231.png" group-title="Locales",Telemundo Internacional
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telemundo Internacional" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Locales",Telemundo Internacional
 http://181.78.22.27:8098/play/a04c/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telepacifico (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacifico (COL)
 http://45.177.53.7:8000/play/a04o/index.m3u8
