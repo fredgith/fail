@@ -126,7 +126,7 @@ http://181.78.22.27:8098/play/a02r/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Entertainment (ARG/CHI/CO" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/208.png" group-title="Cine y Series",Sony Entertainment (ARG/CHI/CO
 http://187.102.208.155:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Movies" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1506.png" group-title="Cine y Series",Sony Movies
-http://170.254.172.10:8000/play/a04h/index.m3u8
+http://138.94.253.154:8055/play/a04u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Space (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png" group-title="Cine y Series",Space (Sur)
 http://190.61.101.9:9000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="STAR Channel ECU/PER" tvg-logo="https://qmcperu.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-22-at-2.12.48-PM.png" group-title="Cine y Series",STAR Channel ECU/PER
