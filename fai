@@ -8,7 +8,7 @@ http://186.67.226.14:8088/play/a036
 #EXTINF:-1 tvg-ID="ext" tvg-name="AXN COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png" group-title="Cine y Series",AXN COL/ECU/PER
 http://187.102.208.155:8000/play/a090/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Institucional (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/138.png" group-title="Locales",Canal Institucional (COL)
-http://190.60.39.198:8000/play/a037/index.m3u8
+http://45.177.111.66:8050/play/a0lw
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Uno (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png" group-title="Locales",Canal Uno (COL)
 http://190.60.39.17:4000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Caracol TV (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" group-title="Locales",Caracol TV (COL)
