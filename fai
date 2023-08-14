@@ -68,7 +68,7 @@ http://200.123.15.177:1982/play/a03x/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Euro channel" tvg-logo="https://th.bing.com/th/id/OIP.FQya3GGcDm70le18VNMzWAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Euro channel
 http://45.228.232.219:16000/play/a0kx/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Europa Europa" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1515.png" group-title="Cine y Series",Europa Europa
-http://177.53.153.21:8001/play/a08y/index.m3u8
+http://45.228.232.205:16000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 2 Argentina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="Deportes",FOX Sports 2 Argentina
 http://204.199.120.34:16123/play/ch20
 #EXTINF:-1 tvg-ID="ext" tvg-name="Fox Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/609.png" group-title="Deportes",Fox Sports 3
