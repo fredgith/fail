@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | AE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Cine y Series",MX | AE
-http://168.228.194.117:58001/play/a02a/index.m3u8
+http://45.228.232.219:16000/play/a0n1/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | AMC" tvg-logo="https://cdn.mitvstatic.com/channels/mx_amc_m.png" group-title="Cine y Series",MX | AMC
 http://45.228.232.205:16000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png" group-title="Culturales",Animal Planet LAS
