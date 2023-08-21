@@ -161,8 +161,8 @@ http://190.83.60.34:1414/play/a034
 http://190.83.116.230:9010/play/a07o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRO" tvg-logo="https://seeklogo.com/images/C/canal-tro-2001-2006-logo-F0AED63819-seeklogo.com.png" group-title="Locales",TRO
 http://181.78.22.27:8098/play/a02y/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TROPICALIA HD" tvg-logo="https://hoypyspace.sfo2.cdn.digitaloceanspaces.com/imagenes/2016/12/09232035/cvypp5zwiaa59p5.jpg" group-title="Musica",TROPICALIA HD
-http://45.179.193.219:5000/play/a0dg
+#EXTINF:-1 tvg-ID="ext" tvg-name="DREAMWORKS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Cine y Series",DREAMWORKS
+http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRUTV (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png" group-title="Cine y Series",TRUTV (ARG/CHI/COL/PER)
 http://190.90.252.200:16001/play/a02c/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE
