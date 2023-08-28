@@ -164,7 +164,7 @@ http://181.78.22.27:8098/play/a02y/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DREAMWORKS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Cine y Series",DREAMWORKS
 http://181.119.66.30:8000/play/82/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRUTV (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png" group-title="Cine y Series",TRUTV (ARG/CHI/COL/PER)
-http://190.90.252.200:16001/play/a02c/index.m3u8
+http://190.122.186.88:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE
 http://181.78.22.27:8098/play/a00g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports
