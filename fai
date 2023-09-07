@@ -84,7 +84,7 @@ http://181.78.8.90:16123/play/ch46
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png" group-title="Cine y Series",HBO AR/CO/EC/PE
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/431.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" group-title="Cine y Series",HBO 2
-http://190.185.123.134:8000/play/a030/index.m3u8
+http://br0ss.xyz:8090/live/Samuel/Samuel2021/428.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Family" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1534.png" group-title="Cine y Series",HBO Family
 http://181.204.79.182:9609/play/a02x
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Pop" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/541.png" group-title="Cine y Series",HBO Pop
