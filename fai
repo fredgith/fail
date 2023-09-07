@@ -70,7 +70,7 @@ http://181.78.105.146:6060/play/a00s
 #EXTINF:-1 tvg-ID="ext" tvg-name="Europa Europa" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1515.png" group-title="Cine y Series",Europa Europa
 http://45.228.232.205:16000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 1 Argentina" tvg-logo="https://w7.pngwing.com/pngs/228/313/png-transparent-fox-sports-1-television-channel-fox-sports-north-television-text-trademark-thumbnail.png" group-title="Deportes",FOX Sports 1 Argentina
-http://38.43.140.97:8000/play/a00h/index.m3u8
+http://br0ss.xyz:8090/live/Samuel/Samuel2021/15001.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 2 Argentina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="Deportes",FOX Sports 2 Argentina
 http://204.199.120.34:16123/play/ch20
 #EXTINF:-1 tvg-ID="ext" tvg-name="Fox Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/609.png" group-title="Deportes",Fox Sports 3
