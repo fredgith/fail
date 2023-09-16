@@ -134,7 +134,7 @@ http://190.61.101.9:9000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="STAR Channel ECU/PER" tvg-logo="https://qmcperu.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-22-at-2.12.48-PM.png" group-title="Cine y Series",STAR Channel ECU/PER
 http://204.199.120.34:16123/play/ch07
 #EXTINF:-1 tvg-ID="ext" tvg-name="Studio Universal" tvg-logo="https://4.bp.blogspot.com/-GlOPLu5aKNk/W6ls4rH44oI/AAAAAAAAAN8/OlxwcfLqMksp5KO0LemQKc2pGIoAnTAKgCPcBGAYYCw/s1600/studiouniversal.png" group-title="Cine y Series",Studio Universal
-http://190.83.60.34:1414/play/a03w
+http://br0ss.xyz:8090/Samuel/Samuel2021/404
 #EXTINF:-1 tvg-ID="ext" tvg-name="SyFy ARG/CHI/COL/ECU/PER" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Cine y Series",SyFy ARG/CHI/COL/ECU/PER
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/414.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
