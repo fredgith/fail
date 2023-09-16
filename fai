@@ -32,7 +32,7 @@ http://br0ss.xyz:8090/Samuel/Samuel2021/458
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",MX | Discovery Channel
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/18599.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Home Health Latino" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png" group-title="Culturales",Discovery Home Health Latino
-http://200.229.147.76:4000/play/a0h6/index.m3u8
+http://br0ss.xyz:8090/Samuel/Samuel2021/22713
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Kids COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/330.png" group-title="Infantiles",Discovery Kids COL/ECU/PER
 http://190.60.39.17:4000/play/a013/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Discovery Science" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="Culturales",CL | Discovery Science
