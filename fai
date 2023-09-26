@@ -112,7 +112,7 @@ http://190.216.162.154:8001/play/a00z
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
 http://181.78.22.27:8098/play/a007/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
-http://190.61.101.9:9000/play/a02g/index.m3u8
+http://177.234.245.26:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/730.png" group-title="Culturales",National Geographic LAS
 http://204.199.120.34:16123/play/ch30
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nick Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png" group-title="Infantiles",Nick Jr
