@@ -108,7 +108,7 @@ http://168.196.124.214:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",MX | Las Estrellas
 http://190.216.162.154:8001/play/a06s
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 80s" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00apos
-http://190.61.101.9:9000/play/a01i/index.m3u8
+http://190.216.162.154:8001/play/a00z
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
 http://181.78.22.27:8098/play/a007/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
