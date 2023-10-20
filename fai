@@ -12,7 +12,7 @@ http://190.61.57.2:1010/play/a033/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Uno (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png" group-title="Locales",Canal Uno (COL)
 http://45.172.218.126:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Caracol TV (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" group-title="Locales",Caracol TV (COL)
-http://204.199.120.34:16123/play/ch58
+http://45.172.218.126:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cartoon Network CHI/COL/ECU/PE" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo-1992.png" group-title="Infantiles",Cartoon Network CHI/COL/ECU/PE
 http://181.78.22.27:8098/play/a00b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CNN en español" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/704.png" group-title="Noticias",CNN en español
