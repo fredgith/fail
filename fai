@@ -72,7 +72,7 @@ http://170.82.37.21:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 1 Argentina" tvg-logo="https://w7.pngwing.com/pngs/228/313/png-transparent-fox-sports-1-television-channel-fox-sports-north-television-text-trademark-thumbnail.png" group-title="Deportes",FOX Sports 1 Argentina
 http://br0ss.xyz:8090/Samuel/Samuel2021/53316
 #EXTINF:-1 tvg-ID="ext" tvg-name="FOX Sports 2 Argentina" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/606.png" group-title="Deportes",FOX Sports 2 Argentina
-http://204.199.120.34:16123/play/ch20
+http://45.172.218.126:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Fox Sports 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/609.png" group-title="Deportes",Fox Sports 3
 http://204.199.120.34:16123/play/ch21
 #EXTINF:-1 tvg-ID="ext" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/63/FX_Logo.webp/revision/latest?cb=20230208174612" group-title="Cine y Series",FX (ARG/CHI/COL/PER)
