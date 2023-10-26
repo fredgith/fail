@@ -18,7 +18,7 @@ http://181.78.22.27:8098/play/a00b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CNN en español" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/704.png" group-title="Noticias",CNN en español
 http://45.172.218.126:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinecanal (COL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine y Series",Cinecanal (COL)
-http://204.199.120.34:16123/play/ch10
+http://200.24.206.132:8000/play/a0bp/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinelatino" tvg-logo="https://logowik.com/content/uploads/images/cine-latino5437.logowik.com.webp" group-title="Cine y Series",Cinelatino
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/462.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinemax CHI/COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1509.png" group-title="Cine y Series",Cinemax CHI/COL/ECU/PER
