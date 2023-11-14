@@ -6,7 +6,7 @@ http://177.93.52.98:45001/play/a06y
 #EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/734.png" group-title="Culturales",Animal Planet LAS
 http://186.67.226.14:8088/play/a036
 #EXTINF:-1 tvg-ID="ext" tvg-name="AXN COL/ECU/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/209.png" group-title="Cine y Series",AXN COL/ECU/PER
-http://200.24.206.132:8000/play/a09c/index.m3u8
+https://directv.bz/uuid/342h5ecb/key/db24def2f71bf0eae35e41db0b764891
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Institucional (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/138.png" group-title="Locales",Canal Institucional (COL)
 http://190.61.57.2:1010/play/a033/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal Uno (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/136.png" group-title="Locales",Canal Uno (COL)
