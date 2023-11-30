@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="ext" tvg-name="MX | AE" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Cine y Series",MX | AE
+#EXTINF:-1 tvg-ID="ext" tvg-name="AE (ARG/CHI/COL/PER)" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Cine y Series",AE (ARG/CHI/COL/PER)
 http://45.181.122.13:8000/play/049
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | AMC" tvg-logo="https://cdn.mitvstatic.com/channels/mx_amc_m.png" group-title="Cine y Series",MX | AMC
 http://45.238.21.84:8000/play/a07h
@@ -29,7 +29,7 @@ http://179.1.144.98:8000/play/a036
 http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | De Pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="Cine y Series",MX | De Película
 http://200.24.206.132:8000/play/a0dd/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="MX | Discovery Channel" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",MX | Discovery Channel
+#EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Channel COL/ECU" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",Discovery Channel COL/ECU
 http://45.172.218.126:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Home Health Latino" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png" group-title="Culturales",Discovery Home Health Latino
 http://45.172.218.126:8000/play/a00i/index.m3u8
@@ -105,7 +105,7 @@ http://br0ss.xyz:8090/live/Samuel/Samuel2021/2412.ts
 http://181.78.22.27:8098/play/a03w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Investigation Discovery ARG/CH" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png" group-title="Culturales",Investigation Discovery ARG/CH
 http://204.199.120.34:16123/play/ch23
-#EXTINF:-1 tvg-ID="ext" tvg-name="MX | Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",MX | Las Estrellas
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal de las Estrellas SUR (AR|CL|CO|EC|PE)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Canal de las Estrellas SUR (AR|CL|CO|EC|PE)
 http://204.199.120.34:16123/play/ch44
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00's
 http://190.216.162.154:8001/play/a00z
@@ -139,7 +139,7 @@ http://170.254.172.10:8000/play/a03t/index.m3u8
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/414.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
 http://190.61.101.9:9000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TCM" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/nuevo_logo_tcm.jpg" group-title="Cine y Series",TCM
+#EXTINF:-1 tvg-ID="ext" tvg-name="Turner Classic Movies TCM (AR CL CO EC PE)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/504.png" group-title="Cine y Series",Turner Classic Movies TCM (AR CL CO EC PE)
 http://45.160.15.130:2909/play/110
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleamazonas (ECU)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png" group-title="Locales",Teleamazonas (ECU)
 http://190.60.36.103:8000/play/a04a/index.m3u8
@@ -149,9 +149,9 @@ http://181.78.22.27:8098/play/a03g/index.m3u8
 http://181.78.22.27:8098/play/a03q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telemundo Internacional" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Locales",Telemundo Internacional
 http://181.78.22.27:8098/play/a04c/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Telepacifico (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacifico (COL)
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telepacífico (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacífico (COL)
 http://45.177.53.7:8000/play/a04o/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TLC" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png" group-title="Culturales",TLC
+#EXTINF:-1 tvg-ID="ext" tvg-name="TLC Chile" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png" group-title="Culturales",TLC Chile
 http://181.78.22.27:8098/play/a01t/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLNovelas SUR" tvg-logo="https://logowik.com/content/uploads/images/tlnovelas-20074321.logowik.com.webp" group-title="Locales",TLNovelas SUR
 http://181.78.8.90:16123/play/ch45
@@ -163,19 +163,17 @@ http://179.1.67.51:8000/play/a036/index.m3u8
 http://181.78.8.90:16123/play/a068
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRO" tvg-logo="https://seeklogo.com/images/C/canal-tro-2001-2006-logo-F0AED63819-seeklogo.com.png" group-title="Locales",TRO
 http://181.78.22.27:8098/play/a02y/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="DREAMWORKS" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="Cine y Series",DREAMWORKS
-http://179.51.168.13:4000/play/a05z
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRUTV (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png" group-title="Cine y Series",TRUTV (ARG/CHI/COL/PER)
 http://190.61.44.122:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE
 http://181.78.22.27:8098/play/a00g/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports Int" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports Int
 http://190.60.36.103:8000/play/a036/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Cinema" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1577.png" group-title="Cine y Series",Universal Cinema
 http://177.53.153.21:8001/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Comedy" tvg-logo="https://www.comedy.co.uk/images/library/fringe/2015/250x250/universal_comedy.jpg" group-title="Cine y Series",Universal Comedy
 http://190.60.36.103:8000/play/a04w/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Universal Crime" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/universal_crime-mediano.png" group-title="Cine y Series",Universal Crime
+#EXTINF:-1 tvg-ID="ext" tvg-name="Universal Crime Oeste HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/577.png" group-title="Cine y Series",Universal Crime Oeste HD
 http://177.53.153.21:8001/play/a09g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Premiere Este" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png" group-title="Cine y Series",Universal Premiere Este
 http://181.78.105.146:8800/play/a067
