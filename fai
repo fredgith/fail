@@ -107,7 +107,7 @@ http://181.78.22.27:8098/play/a03w/index.m3u8
 http://204.199.120.34:16123/play/ch23
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",MX | Las Estrellas
 http://204.199.120.34:16123/play/ch44
-#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 80s" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00apos
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00's
 http://190.216.162.154:8001/play/a00z
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
 http://181.78.22.27:8098/play/a007/index.m3u8
