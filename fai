@@ -211,3 +211,5 @@ http://51.159.104.29:8080/bobesponja/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 176 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 tvg-id="MAZINGER Z" tvg-name="MAZINGER Z" tvg-logo="https://ninosdecine.files.wordpress.com/2014/08/imagen1.png" group-title="Canales 24/7",MAZINGER Z
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/1038572
