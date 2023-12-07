@@ -142,7 +142,7 @@ http://190.61.101.9:9000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Turner Classic Movies TCM (AR CL CO EC PE)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/504.png" group-title="Cine y Series",Turner Classic Movies TCM (AR CL CO EC PE)
 http://181.78.208.254:8010/play/a08o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleamazonas (ECU)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png" group-title="Locales",Teleamazonas (ECU)
-http://200.24.204.242:6020/play/a0dr/index.m3u8
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/589143
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleantioquia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/140.png" group-title="Locales",Teleantioquia (COL)
 http://181.129.173.98:8200/play/a07t/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telecaribe (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/142.png" group-title="Locales",Telecaribe (COL)
