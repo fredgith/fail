@@ -14,7 +14,7 @@ http://45.172.218.126:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Caracol TV (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/132.png" group-title="Locales",Caracol TV (COL)
 http://45.172.218.126:8000/play/a04g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cartoon Network CHI/COL/ECU/PE" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo-1992.png" group-title="Infantiles",Cartoon Network CHI/COL/ECU/PE
-http://200.24.204.242:6020/play/a0bc/index.m3u8
+http://167.250.135.246:81/play/a091/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CNN en español" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/704.png" group-title="Noticias",CNN en español
 http://45.172.218.126:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinecanal (COL)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine y Series",Cinecanal (COL)
