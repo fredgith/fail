@@ -78,7 +78,7 @@ http://200.24.206.132:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FX (ARG/CHI/COL/PER)" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/63/FX_Logo.webp/revision/latest?cb=20230208174612" group-title="Cine y Series",FX (ARG/CHI/COL/PER)
 http://45.172.218.126:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="GOL TV ECU" tvg-logo="https://laradioredonda.ec/wp-content/uploads/2022/01/GolTV_actualiza_estudios_y_unidades_moviles_con_Grass_Valley.jpg" group-title="Deportes",GOL TV ECU
-http://200.24.204.242:6020/play/a0eb/index.m3u8
+http://167.250.135.246:81/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Golden TV" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg" group-title="Cine y Series",Golden TV
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/592418
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png" group-title="Cine y Series",HBO AR/CO/EC/PE
