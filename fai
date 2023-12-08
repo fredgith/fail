@@ -104,7 +104,7 @@ http://br0ss.xyz:8090/live/Samuel/Samuel2021/2412.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="I-SAT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/520.png" group-title="Cine y Series",I-SAT
 http://181.129.173.98:8200/play/a07e/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Investigation Discovery ARG/CH" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png" group-title="Culturales",Investigation Discovery ARG/CH
-http://204.199.120.34:16123/play/ch23
+http://167.250.135.246:81/play/a063/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal de las Estrellas SUR (AR|CL|CO|EC|PE)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Canal de las Estrellas SUR (AR|CL|CO|EC|PE)
 http://204.199.120.34:16123/play/ch44
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00's
