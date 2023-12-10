@@ -44,7 +44,7 @@ http://167.250.135.246:81/play/a0df/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Disney Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/315.png" group-title="Infantiles",Disney Jr
 http://45.172.218.126:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Locales",Distrito Comedia
-http://200.24.206.132:8000/play/a00y/index.m3u8
+http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/592458
 #EXTINF:-1 tvg-ID="ext" tvg-name="E! Entertainment ARG/CHI/COL/" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="Culturales",E! Entertainment ARG/CHI/COL/
 http://br0ss.xyz:8090/Samuel/Samuel2021/351
 #EXTINF:-1 tvg-ID="ext" tvg-name="Ecuavisa (ECU)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/182.png" group-title="Locales",Ecuavisa (ECU)
