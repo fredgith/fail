@@ -107,7 +107,7 @@ http://181.129.173.98:8200/play/a07e/index.m3u8
 http://167.250.135.246:81/play/a063/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal de las Estrellas SUR (AR|CL|CO|EC|PE)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Canal de las Estrellas SUR (AR|CL|CO|EC|PE)
 http://167.250.135.246:81/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/262.png" group-title="Musica",MTV 00's
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/04/16047161_7791D43C2BB5F0AA.png" group-title="Musica",MTV 00's
 http://45.5.119.228:8000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
 http://181.129.173.98:8200/play/a07z/index.m3u8
