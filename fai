@@ -83,8 +83,8 @@ http://45.172.218.126:8000/play/a03n/index.m3u8
 http://45.172.218.126:8000/play/a01l/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO AR/CO/EC/PE" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1524.png" group-title="Cine y Series",HBO AR/CO/EC/PE
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/431.ts
-#EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-losion.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" group-title="Cine y Series",HBO 2
-http://br0ss.xyz:8090/live/Samuel/Samuel2021/428.ts
+#EXTINF:-1 tvg-ID="ext" tvg-name="HBO 2" tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="Cine y Series",HBO 2
+http://181.188.238.114:6020/play/a08u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Family" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1534.png" group-title="Cine y Series",HBO Family
 http://181.78.208.254:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Pop" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/541.png" group-title="Cine y Series",HBO Pop
@@ -96,9 +96,9 @@ http://181.129.173.98:8200/play/a08a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HBO Xtreme" tvg-logo="https://impulsotv.ar/wp-content/uploads/2022/11/hbo-xtreme.jpg" group-title="Cine y Series",HBO Xtreme
 http://170.82.37.21:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="History (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/742.png" group-title="Culturales",History (Sur)
-http://br0ss.xyz:8090/live/Samuel/Samuel2021/346.ts
+http://181.188.238.114:6020/play/a098/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="History 2 LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/744.png" group-title="Culturales",History 2 LAS
-http://br0ss.xyz:8090/live/Samuel/Samuel2021/345.ts
+http://181.188.238.114:6020/play/a0be/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="HTV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/272.png" group-title="Musica",HTV
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/2412.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="I-SAT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/520.png" group-title="Cine y Series",I-SAT
@@ -107,7 +107,7 @@ http://45.5.117.182:8000/play/a0j4/index.m3u8
 http://167.250.135.246:81/play/a063/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal de las Estrellas SUR (AR|CL|CO|EC|PE)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Canal de las Estrellas SUR (AR|CL|CO|EC|PE)
 http://167.250.135.246:81/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 80s" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/04/16047161_7791D43C2BB5F0AA.png" group-title="Musica",MTV 80s
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Musica",MTV 80s
 http://45.5.117.182:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
 http://45.5.117.182:8000/play/a0fd/index.m3u8
