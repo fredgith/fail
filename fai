@@ -26,7 +26,7 @@ http://181.78.208.254:8010/play/a00u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Musica" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="Musica",CL | Claro Musica
 http://45.5.117.182:8000/play/a0gl/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Sports" tvg-logo="https://th.bing.com/th/id/OIP.xqTiGK4o-vBlG4RYka-t6wAAAA?pid=ImgDet&rs=1" group-title="Deportes",CL | Claro Sports
-http://167.250.135.246:81/play/a0d7/index.m3u8
+http://45.5.117.182:8000/play/a0e5/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MX | De Pelicula" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="Cine y Series",MX | De Película
 http://45.172.218.126:8000/play/a06a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Channel COL/ECU" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",Discovery Channel COL/ECU
