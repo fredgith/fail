@@ -102,39 +102,39 @@ http://br0ss.xyz:8090/live/Samuel/Samuel2021/345.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="HTV" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/272.png" group-title="Musica",HTV
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/2412.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="I-SAT" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/520.png" group-title="Cine y Series",I-SAT
-http://181.129.173.98:8200/play/a07e/index.m3u8
+http://45.5.117.182:8000/play/a0j4/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Investigation Discovery ARG/CH" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/223.png" group-title="Culturales",Investigation Discovery ARG/CH
 http://167.250.135.246:81/play/a063/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Canal de las Estrellas SUR (AR|CL|CO|EC|PE)" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Canal de las Estrellas SUR (AR|CL|CO|EC|PE)
 http://167.250.135.246:81/play/a0b9/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00's" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/04/16047161_7791D43C2BB5F0AA.png" group-title="Musica",MTV 00's
-http://45.5.119.228:8000/play/a05e/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV 80s" tvg-logo="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/04/16047161_7791D43C2BB5F0AA.png" group-title="Musica",MTV 80s
+http://45.5.117.182:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV Latino" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV Latino
-http://181.129.173.98:8200/play/a07z/index.m3u8
+http://45.5.117.182:8000/play/a0fd/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/602694
 #EXTINF:-1 tvg-ID="ext" tvg-name="National Geographic LAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/730.png" group-title="Culturales",National Geographic LAS
 http://45.172.218.126:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nick Jr" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/309.png" group-title="Infantiles",Nick Jr
-http://167.250.135.246:81/play/a0gc/index.m3u8
+http://45.5.117.182:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Nickelodeon" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/308.png" group-title="Infantiles",Nickelodeon
 http://45.172.218.126:8000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Paramount" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/510.png" group-title="Cine y Series",Paramount
-http://181.129.173.98:8200/play/a07f/index.m3u8
+http://45.5.117.182:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="RCN (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/130.png" group-title="Locales",RCN (COL)
 http://181.129.173.98:8200/play/a050/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Señal Colombia (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/137.png" group-title="Locales",Señal Colombia (COL)
 http://181.129.173.98:8200/play/a04z/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony (ARG|CL|CO|PE)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/208.png" group-title="Cine y Series",Sony (ARG|CL|CO|PE)
-http://181.129.173.98:8200/play/a07q/index.m3u8
+http://45.5.117.182:8000/play/a0i3/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Sony Movies" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1506.png" group-title="Cine y Series",Sony Movies
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/585878
 #EXTINF:-1 tvg-ID="ext" tvg-name="Space (Sur)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/518.png" group-title="Cine y Series",Space (Sur)
 http://45.172.218.126:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="STAR Channel ECU/PER" tvg-logo="https://qmcperu.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-22-at-2.12.48-PM.png" group-title="Cine y Series",STAR Channel ECU/PER
-http://om:80/Alienhost400/WCwuhHbSJAjY/1036926
+http://45.5.117.182:8000/play/a0i1/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Studio Universal" tvg-logo="https://4.bp.blogspot.com/-GlOPLu5aKNk/W6ls4rH44oI/AAAAAAAAAN8/OlxwcfLqMksp5KO0LemQKc2pGIoAnTAKgCPcBGAYYCw/s1600/studiouniversal.png" group-title="Cine y Series",Studio Universal
-http://181.129.173.98:8200/play/a05e/index.m3u8
+http://45.5.117.182:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="SyFy ARG/CHI/COL/ECU/PER" tvg-logo="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2017%2F05%2Fdefault-2000.jpg" group-title="Cine y Series",SyFy ARG/CHI/COL/ECU/PER
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/414.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
@@ -152,19 +152,19 @@ http://45.172.218.126:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telepacífico (COL)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacífico (COL)
 http://45.177.53.7:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLC Chile" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png" group-title="Culturales",TLC Chile
-http://181.129.173.98:8200/play/a07y/index.m3u8
+http://45.5.117.182:8000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLNovelas SUR" tvg-logo="https://logowik.com/content/uploads/images/tlnovelas-20074321.logowik.com.webp" group-title="Locales",TLNovelas SUR
 http://181.78.8.90:16123/play/ch45
 #EXTINF:-1 tvg-ID="ext" tvg-name="TNT COL" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2019/01/TNT_Logo.png" group-title="Cine y Series",TNT COL
 http://45.172.218.126:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TNT Series" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/213.png" group-title="Cine y Series",TNT Series
-http://181.129.173.98:8200/play/a086/index.m3u8
+http://45.5.117.182:8000/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Tooncast" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tooncast_m.png" group-title="Infantiles",Tooncast
-http://181.129.173.98:8200/play/a07x/index.m3u8
+http://45.5.117.182:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRO" tvg-logo="https://seeklogo.com/images/C/canal-tro-2001-2006-logo-F0AED63819-seeklogo.com.png" group-title="Locales",TRO
 http://181.129.173.98:8200/play/a05k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TRUTV (ARG/CHI/COL/PER)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/220.png" group-title="Cine y Series",TRUTV (ARG/CHI/COL/PER)
-http://190.61.44.122:8000/play/a02b/index.m3u8
+http://45.5.117.182:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE
 http://181.78.208.254:8010/play/a072/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports Int" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports Int
