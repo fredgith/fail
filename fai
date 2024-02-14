@@ -167,7 +167,7 @@ http://181.129.173.98:8200/play/a05k/index.m3u8
 http://45.5.117.182:8000/play/a0es/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TVE HD" tvg-logo="https://www.fulltv.com.ar/images/tv/tve-3059.png" group-title="Locales",TVE HD
 http://181.78.208.254:8010/play/a072/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports Int" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports Int
+#EXTINF:-1 tvg-ID="ext" tvg-name="TyC Sports" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/629.png" group-title="Deportes",TyC Sports
 http://177.234.247.66:8888/play/a02v/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Cinema" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1577.png" group-title="Cine y Series",Universal Cinema
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/592398
