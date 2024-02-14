@@ -149,7 +149,7 @@ http://181.129.173.98:8200/play/a07t/index.m3u8
 http://181.78.208.254:8010/play/a01w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TELEMUNDO" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Locales",TELEMUNDO
 http://45.172.218.126:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Telepacífico" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacífico
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telepacifico" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacifico
 http://45.177.53.7:8000/play/a04o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TLC" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/740.png" group-title="Culturales",TLC
 http://45.5.117.182:8000/play/a0hw/index.m3u8
