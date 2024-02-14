@@ -173,9 +173,9 @@ http://177.234.247.66:8888/play/a02v/index.m3u8
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/592398
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Comedy" tvg-logo="https://www.comedy.co.uk/images/library/fringe/2015/250x250/universal_comedy.jpg" group-title="Cine y Series",Universal Comedy
 http://181.78.105.146:6060/play/a03t
-#EXTINF:-1 tvg-ID="ext" tvg-name="Universal Crime Oeste HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/577.png" group-title="Cine y Series",Universal Crime Oeste HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="UNIVERSAL CRIME HD (218)" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/577.png" group-title="Cine y Series",UNIVERSAL CRIME HD (218)
 http://181.78.105.146:6060/play/a03s
-#EXTINF:-1 tvg-ID="ext" tvg-name="Universal Premiere Este" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png" group-title="Cine y Series",Universal Premiere Este
+#EXTINF:-1 tvg-ID="ext" tvg-name="UNIVERSAL PREMIERE HD (215)" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png" group-title="Cine y Series",UNIVERSAL PREMIERE HD (215)
 http://181.78.105.146:8800/play/a067
 #EXTINF:-1 tvg-ID="ext" tvg-name="Universal Premiere Oeste" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_PREMIERE.png.ec2deb44f4b6020f6b11233389b1c7fd.png" group-title="Cine y Series",Universal Premiere Oeste
 http://181.78.105.146:8800/play/a068
