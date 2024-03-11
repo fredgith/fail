@@ -139,6 +139,8 @@ http://45.5.117.182:8000/play/a0fh/index.m3u8
 http://br0ss.xyz:8090/live/Samuel/Samuel2021/414.ts
 #EXTINF:-1 tvg-ID="ext" tvg-name="TBS Very Funny ARG/CHI/COL/PER" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/216.png" group-title="Cine y Series",TBS Very Funny ARG/CHI/COL/PER
 http://dns.k4livetv.com:80/Alienhost400/WCwuhHbSJAjY/592381
+#EXTINF:-1 tvg-ID="ext" tvg-name="TC TELEVISION" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png" group-title="Locales",TC TELEVISION
+http://45.179.140.242:8000/play/a0j0
 #EXTINF:-1 tvg-ID="ext" tvg-name="TCM" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/504.png" group-title="Cine y Series",TCM
 http://181.78.208.254:8010/play/a08o/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png" group-title="Locales",TELEAMAZONAS
