@@ -105,6 +105,8 @@ http://45.5.117.182:8000/play/a0j4/index.m3u8
 http://45.71.252.16:8000/play/a0gu/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Las Estrellas" tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-s.png" group-title="Locales",Las Estrellas
 http://38.44.109.41:8888/play/a00g
+#EXTINF:-1 tvg-ID="ext" tvg-name="Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culturales",Love Nature
+http://45.236.151.66:3232/play/a036/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Musica",MTV 00S
 http://45.5.117.182:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV HD
