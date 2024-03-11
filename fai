@@ -73,6 +73,8 @@ http://45.179.140.242:8000/play/a0k3
 http://177.234.247.66:8888/play/a00u/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="FX HD" tvg-logo="https://static.wikia.nocookie.net/disney/images/6/63/FX_Logo.webp/revision/latest?cb=20230208174612" group-title="Cine y Series",FX HD
 http://201.234.211.35:9000/play/a00e/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Gamavision" tvg-logo="https://www.ecured.cu/Gamavisi%C3%B3n#/media/File:Gamavisi%C3%B3n.png" group-title="Locales",Gamavision
+http://45.236.151.66:3232/play/a02x/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="GOL TV HD" tvg-logo="https://laradioredonda.ec/wp-content/uploads/2022/01/GolTV_actualiza_estudios_y_unidades_moviles_con_Grass_Valley.jpg" group-title="Deportes",GOL TV HD
 http://177.234.247.66:8888/play/a02q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="GOLDEN HD" tvg-logo="https://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg" group-title="Cine y Series",GOLDEN HD
