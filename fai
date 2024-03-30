@@ -184,7 +184,7 @@ http://181.78.105.146:8800/play/a069
 #EXTINF:-1 tvg-ID="ext" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/218.png" group-title="Cine y Series",UNIVERSAL CHANNEL
 http://177.234.247.66:8888/play/a01a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Vallenato Internacional" tvg-logo="https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg" group-title="Musica",Vallenato Internacional
-https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="VIA X HD" tvg-logo="https://th.bing.com/th/id/OIP.qUzvFF7ps0xyh-CEklNmbgHaHa?pid=ImgDet&rs=1" group-title="Locales",VIA X HD
 http://177.234.247.66:8888/play/a06w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="WARNER CHANNEL HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1206.png" group-title="Cine y Series",WARNER CHANNEL HD
