@@ -139,7 +139,7 @@ http://177.234.247.66:8888/play/a00a/index.m3u8
 http://177.234.247.66:8888/play/a033/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://4.bp.blogspot.com/-GlOPLu5aKNk/W6ls4rH44oI/AAAAAAAAAN8/OlxwcfLqMksp5KO0LemQKc2pGIoAnTAKgCPcBGAYYCw/s1600/studiouniversal.png" group-title="Cine y Series",STUDIO UNIVERSAL
 http://45.5.117.182:8000/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1000px-USA_Network_logo_%282006%29.svg.png" group-title="Cine y Series",USA
+#EXTINF:-1 tvg-ID="ext" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1000px-USA_Network_logo_%282006%29.svg.png" group-title="Cine y Series",USA NETWORK
 http://45.181.122.13:8000/play/058
 #EXTINF:-1 tvg-ID="ext" tvg-name="TC TELEVISION" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png" group-title="Locales",TC TELEVISION
 http://177.234.247.66:8888/play/a01q/index.m3u8
