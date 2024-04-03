@@ -20,7 +20,7 @@ http://177.234.247.66:8888/play/a05v/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CINECANAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine y Series",CINECANAL HD
 http://177.234.247.66:8888/play/a025/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinelatino" tvg-logo="https://logowik.com/content/uploads/images/cine-latino5437.logowik.com.webp" group-title="Cine y Series",Cinelatino
-http://181.175.41.170:8000/play/a0np
+http://181.115.69.117:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CINEMAX HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1509.png" group-title="Cine y Series",CINEMAX HD
 http://177.234.247.66:8888/play/a00y/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Musica" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="Musica",CL | Claro Musica
