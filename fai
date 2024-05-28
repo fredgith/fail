@@ -208,7 +208,7 @@ https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="Canales 24/7", 174 | Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="Canales 24/7", 175 | Los Tres Chiflados TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
+https://ia801408.us.archive.org/29/items/lo-mejor-de-los-tres-chiflados-a-color-en-espan-ol-mas-de-2-horas-de-risas/LO%20MEJOR%20DE%20LOS%20TRES%20CHIFLADOS%20A%20COLOR%20EN%20ESPA%C3%91OL%20MAS%20DE%202%20HORAS%20DE%20RISAS.mp4
 #EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="Canales 24/7", 176 | El Chavo del 8 TV
 https://archive.org/download/el-chavo-del-ocho-qnu-pvgua-4hw/CHESPIRITO/EL_CHAVO_DEL_OCHO-QNuPVGUA4hw.ia.mp4
 #EXTINF:-1 tvg-id="MAZINGER Z" tvg-name="MAZINGER Z" tvg-logo="https://ninosdecine.files.wordpress.com/2014/08/imagen1.png" group-title="Canales 24/7",MAZINGER Z
