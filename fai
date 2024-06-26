@@ -103,6 +103,8 @@ http://177.234.247.66:8888/play/a010/index.m3u8
 http://177.234.247.66:8888/play/a037/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Love Nature" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Culturales",Love Nature
 http://190.95.220.212:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Memorias Tv" tvg-logo="https://image.roku.com/developer_channels/prod/e3206b87f45c66fb987b85d97fe94979e93b528e23823eea0445228d315661ec.png" group-title="Musica",Memorias Tv
+http://190.95.220.212:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Musica",MTV 00S
 http://177.234.247.66:8888/play/a00w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV HD
