@@ -18,13 +18,13 @@ http://177.234.247.66:8888/play/a05v/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CINECANAL HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Cinecanal_1995.png/revision/latest?cb=20191214040757&path-prefix=es" group-title="Cine y Series",CINECANAL HD
 http://177.234.247.66:8888/play/a025/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Cinelatino" tvg-logo="https://logowik.com/content/uploads/images/cine-latino5437.logowik.com.webp" group-title="Cine y Series",Cinelatino
-http://204.199.122.4:8000/play/b057/index.m3u8
+http://45.70.237.125:8000/play/a0ry/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CINEMAX HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1509.png" group-title="Cine y Series",CINEMAX HD
 http://177.234.247.66:8888/play/a00y/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Musica" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1543589165298-Imagen.png" group-title="Musica",CL | Claro Musica
 http://181.78.105.146:6060/play/a010
 #EXTINF:-1 tvg-ID="ext" tvg-name="CL | Claro Sports" tvg-logo="https://th.bing.com/th/id/OIP.xqTiGK4o-vBlG4RYka-t6wAAAA?pid=ImgDet&rs=1" group-title="Deportes",CL | Claro Sports
-http://131.161.53.2:8000/play/a01i/index.m3u8
+http://45.71.252.16:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="De Película" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="Cine y Series",De Película
 http://177.234.247.66:8888/play/a07g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",DISCOVERY CHANNEL HD
@@ -182,7 +182,7 @@ http://177.234.247.66:8888/play/a01a/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="USA NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/USA_Network_logo_%282006%29.svg/1000px-USA_Network_logo_%282006%29.svg.png" group-title="Cine y Series",USA NETWORK
 http://45.181.122.13:8000/play/058
 #EXTINF:-1 tvg-ID="ext" tvg-name="Vallenato Internacional" tvg-logo="https://play-lh.googleusercontent.com/K1TgB4CCqWoTDhky17R_YXYCEEunpDZwmEHGXq8w0cv5j2BlN8LyyhoOaHMLuo0wnEg" group-title="Musica",Vallenato Internacional
-https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+http://45.71.252.16:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="VIA X HD" tvg-logo="https://cdn.mitvstatic.com/channels/cl_via-x_m.png" group-title="Locales",VIA X HD
 http://177.234.247.66:8888/play/a06w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="WARNER CHANNEL HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/1206.png" group-title="Cine y Series",WARNER CHANNEL HD
