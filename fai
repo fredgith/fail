@@ -34,7 +34,7 @@ http://177.234.247.66:8888/play/a017/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/330.png" group-title="Infantiles",DISCOVERY KIDS HD
 http://177.234.247.66:8888/play/a016/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/cl_discovery-science_m.png" group-title="Culturales",DISCOVERY SCIENCE
-http://190.95.220.212:8000/play/a05u/index.m3u8
+http://45.70.237.125:8000/play/a0hw/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY TURBO" tvg-logo="https://seeklogo.com/images/D/discovery-turbo-logo-5206AA4570-seeklogo.com.png" group-title="Culturales",DISCOVERY TURBO
 http://177.234.247.66:8888/play/a079/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/314.png" group-title="Infantiles",DISNEY CHANNEL HD
@@ -110,7 +110,7 @@ http://177.234.247.66:8888/play/a00w/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV HD
 http://177.234.247.66:8888/play/a036/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
-http://177.234.230.226:8010/play/a00h/index.m3u8
+http://45.70.237.125:8000/play/a0rx/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Música Reggaeton" tvg-logo="https://w7.pngwing.com/pngs/511/830/png-transparent-reggaeton-music-desafio-mix-pa-que-retozen-sandungueo-reggaeton.png" group-title="Musica",Música Reggaeton
 http://177.234.247.66:8888/play/a080/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Música Romántica" tvg-logo="https://share.ftimg.com/aff/flamingtext/2020/05/12/flamingtext__26663270660679718.png" group-title="Musica",Música Romántica
@@ -142,7 +142,7 @@ http://45.5.117.182:8000/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TC TELEVISION" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png" group-title="Locales",TC TELEVISION
 http://177.234.247.66:8888/play/a01q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Cine y Series",TCM
-http://45.71.252.16:8000/play/a0cu/index.m3u8
+http://45.70.237.125:8000/play/a0i2/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/180.png" group-title="Locales",TELEAMAZONAS
 http://177.234.247.66:8888/play/a01s/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Teleantioquia" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/140.png" group-title="Locales",Teleantioquia
