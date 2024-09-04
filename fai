@@ -29,7 +29,7 @@ http://45.71.252.16:8000/play/a09k/index.m3u8
 http://177.234.247.66:8888/play/a07g/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-channel_m.png" group-title="Culturales",DISCOVERY CHANNEL HD
 http://177.234.247.66:8888/play/a039/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Discovery H&H" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/229.png" group-title="Culturales",Discovery H&H
+#EXTINF:-1 tvg-ID="ext" tvg-name="Discovery H&H" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo-0.png" group-title="Culturales",Discovery H&H
 http://177.234.247.66:8888/play/a017/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/330.png" group-title="Infantiles",DISCOVERY KIDS HD
 http://177.234.247.66:8888/play/a016/index.m3u8
@@ -41,7 +41,7 @@ http://177.234.247.66:8888/play/a079/index.m3u8
 http://177.234.247.66:8888/play/a00q/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="DISNEY JUNIOR" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CL/315.png" group-title="Infantiles",DISNEY JUNIOR
 http://177.234.247.66:8888/play/a06l/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Locales",Distrito Comedia
+#EXTINF:-1 tvg-ID="ext" tvg-name="Distrito Comedia" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/cfe80f78240757.Y3JvcCwxMzgwLDEwODAsMjcwLDA.jpeg" group-title="Locales",Distrito Comedia
 http://177.234.247.66:8888/play/a01n/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="E! ENTERTAINMENT" tvg-logo="https://seeklogo.com/images/E/e-entertainment-television-logo-EF3AA17F85-seeklogo.com.png" group-title="Culturales",E! ENTERTAINMENT
 http://177.234.247.66:8888/play/a02p/index.m3u8
@@ -107,7 +107,7 @@ http://190.95.220.212:8000/play/a01e/index.m3u8
 http://190.95.220.212:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="MTV 00S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Musica",MTV 00S
 http://177.234.247.66:8888/play/a00w/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="MTV HD" tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" group-title="Musica",MTV HD
+#EXTINF:-1 tvg-ID="ext" tvg-name="MTV HD" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo-thumbnail.png" group-title="Musica",MTV HD
 http://177.234.247.66:8888/play/a036/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Multipremier" tvg-logo="https://th.bing.com/th/id/OIP.2lUVLF1Zgg3CoA7MZ5raqAAAAA?pid=ImgDet&rs=1" group-title="Cine y Series",Multipremier
 http://45.70.237.125:8000/play/a0rx/index.m3u8
@@ -149,7 +149,7 @@ http://177.234.247.66:8888/play/a01s/index.m3u8
 http://177.234.247.66:8888/play/a05n/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telecaribe" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/142.png" group-title="Locales",Telecaribe
 http://177.234.247.66:8888/play/a07k/index.m3u8
-#EXTINF:-1 tvg-ID="ext" tvg-name="TELEMUNDO" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Locales",TELEMUNDO
+#EXTINF:-1 tvg-ID="ext" tvg-name="TELEMUNDO" tvg-logo="https://w7.pngwing.com/pngs/813/622/png-transparent-telemundo-logo-television-network-prime-time-shows-miscellaneous-television-text-thumbnail.png" group-title="Locales",TELEMUNDO
 http://177.234.247.66:8888/play/a06i/index.m3u8
 #EXTINF:-1 tvg-ID="ext" tvg-name="Telepacifico" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/141.png" group-title="Locales",Telepacifico
 http://177.234.247.66:8888/play/a05m/index.m3u8
